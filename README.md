@@ -84,3 +84,23 @@ KITS Warangal
 ### Testing Results
 
 ![Testing](screenshots/testing-results.png)
+
+
+
+
+
+
+## Workflow Blueprint
+
+The exported Make.com workflow blueprint is available in the `workflow` folder.
+This blueprint contains the automation logic for:
+
+* Google Sheets signup detection
+* AI-powered email personalization
+* Gmail automated outreach
+* Status and timestamp updates
+* Router-based fallback handling
+* A/B testing workflow support
+
+The blueprint can be imported into Make.com to replicate the automation workflow structure.
+
