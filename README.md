@@ -63,3 +63,24 @@ One major challenge was handling failures in AI-generated responses while ensuri
 
 Arafath
 KITS Warangal
+
+
+
+
+## Screenshots
+
+### Make.com Workflow
+
+![Workflow](screenshots/make-workflow.png)
+
+### AI Personalized Gmail Output
+
+![AI Gmail](screenshots/gmail-output-AI.png)
+
+### Generic Gmail Output
+
+![Generic Gmail](screenshots/gmail-output-generic.png)
+
+### Testing Results
+
+![Testing](screenshots/testing-results.png)
